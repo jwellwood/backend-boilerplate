@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jwellwood/backend-boilerplate#readme",
   "dependencies": {
-    "bcrypt": "^4.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.2.0",
